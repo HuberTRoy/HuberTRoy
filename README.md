@@ -1,10 +1,10 @@
 # Cyrbuzz 前端在路上
 
-Vue        █████████████░░░░░
+  Vue&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████░░░░░░░░
 
-React      ████░░░░░░░░░░░░░░
+  React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;████░░░░░░░░░░░░░░
 
-TypeScript ████░░░░░░░░░░░░░░
+  TypeScript&nbsp;████░░░░░░░░░░░░░░
 
-Python     █████████████░░░░░
+  Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██████████░░░░░░░░
 
