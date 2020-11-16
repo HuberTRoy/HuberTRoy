@@ -1,11 +1,5 @@
 # Cyrbuzz 前端
 
-Vue
+![](https://github-readme-stats.vercel.app/api?username=HuberTRoy&count_private=true)
 
-React
-
-TypeScript
-
-Python
-
-HTML/CSS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuberTRoy&layout=compact)
