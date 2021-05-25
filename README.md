@@ -1,4 +1,16 @@
-# Cyrbuzz 前端
+# Hi~ there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=HuberTRoy&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuberTRoy&layout=compact)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=HuberTRoy&count_private=true">
+
+### 👨‍🚒 关于我
+
+- ⚡ 一只正在成长的前端仔。
+- 💬 入门语言是Python，野生翻译过[aiohttp的文档](https://github.com/HuberTRoy/aiohttp-chinese-documentation)和一本自学小书[进击的Python](https://github.com/HuberTRoy/full-speed-python-chinese)。
+- 😄 对用心实现出交互性优秀的页面着迷，目前正在前端的道路上打怪升级。
+
+### 🔥 我的项目
+
+- 🚀 [入门前端的作品](https://github.com/HuberTRoy/vue-shiyanlou)，模仿的实验楼整站~。
+- 😉 [前端路上的总结](https://github.com/HuberTRoy/myown)，小小blog。
+- 😘 [前端优化实践](https://github.com/HuberTRoy/myown/blob/master/%E5%85%B6%E4%BB%96%E6%96%87%E7%AB%A0/%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96%E6%89%8B%E6%AE%B5.md)，[axios源码浅析](https://github.com/HuberTRoy/myown/blob/master/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/axios%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md)，[手摸手实现Vue3 reactivity](https://github.com/HuberTRoy/myown/blob/master/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/observver-util%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%9A%84%E8%A1%8D%E7%94%9F%E6%96%87%E7%AB%A0.md)，[vue3-luckdraw纯CSS实现](https://github.com/HuberTRoy/myown/tree/master/%E5%B0%8F%E5%B7%A5%E5%85%B7/vue3-luckdraw)。
+
