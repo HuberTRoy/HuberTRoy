@@ -5,12 +5,16 @@
 ### 👨‍🚒 关于我
 
 - ⚡ 一只正在成长的前端仔。
+- 😄 喜欢React, Vue, TypeScript 对探索原理着迷，实现过一个[巨小型Vue](https://github.com/HuberTRoy/fake-petite-vue)。
 - 💬 入门语言是Python，野生翻译过[aiohttp的文档](https://github.com/HuberTRoy/aiohttp-chinese-documentation)和一本自学小书[进击的Python](https://github.com/HuberTRoy/full-speed-python-chinese)。
-- 😄 对用心实现出交互性优秀的页面着迷，目前正在前端的道路上打怪升级。
+- 😉 喜欢开源项目，偶尔可以蹲到[antd-mobile](https://github.com/ant-design/ant-design-mobile)的PR。
 
-### 🔥 我的项目
+
+### 🔥 写过的一些东西
+- 😘 [前端性能优化实践](https://juejin.cn/post/6966857691381645325)
+- 👨‍🚒 [Vite + Webpack + Ts + Pinia基础框架搭建](https://juejin.cn/post/7096372659079872526)
+- 👋 [开源组件库基建？不在话下](https://juejin.cn/post/7112295067682865166)
+- ⚡  [TypeScript打怪升级之路](https://juejin.cn/column/7215415212106596409)
+- 💬 [SVG 入门不完全指南](https://juejin.cn/post/6990176444273917966)
 - 😉 [Blog](https://github.com/HuberTRoy/myown)，好耶是Blog。
-- 💬 [SVG翻译+实际例子](https://github.com/HuberTRoy/svgTutorial)
-- 🚀 [入门前端的作品](https://github.com/HuberTRoy/vue-shiyanlou)，模仿的实验楼整站~。
-- 😘 [前端优化实践](https://juejin.cn/post/6966857691381645325)，[axios源码浅析](https://github.com/HuberTRoy/myown/blob/master/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/axios%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB.md)，[手摸手实现Vue3 reactivity](https://github.com/HuberTRoy/myown/blob/master/%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/observver-util%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB%E7%9A%84%E8%A1%8D%E7%94%9F%E6%96%87%E7%AB%A0.md)，[Vue3-luckdraw纯CSS实现](https://github.com/HuberTRoy/myown/tree/master/%E5%B0%8F%E5%B7%A5%E5%85%B7/vue3-luckdraw)，[Vue3-cropper](https://github.com/HuberTRoy/vue3-cropper)。
 
