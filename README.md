@@ -7,7 +7,7 @@
 - ⚡ 一只正在成长的前端仔。
 - 😄 喜欢React, Vue, TypeScript 对探索原理着迷，实现过一个[巨小型Vue](https://github.com/HuberTRoy/fake-petite-vue)。
 - 💬 入门语言是Python，野生翻译过[aiohttp的文档](https://github.com/HuberTRoy/aiohttp-chinese-documentation)和一本自学小书[进击的Python](https://github.com/HuberTRoy/full-speed-python-chinese)。
-- 😉 喜欢开源项目，偶尔可以蹲到[antd-mobile](https://github.com/ant-design/ant-design-mobile)的PR。
+- 😉 喜欢开源项目，偶尔可以蹲到[antd-mobile](https://github.com/ant-design/ant-design-mobile)和[Vant](https://github.com/youzan/vant)的PR。
 
 
 ### 🔥 写过的一些东西
