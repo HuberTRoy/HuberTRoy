@@ -1,7 +1,5 @@
 # Hi~ there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HuberTRoy&count_private=true">
-
 ### 👨‍🚒 关于我
 
 - ⚡ 一只正在成长的前端仔。
